@@ -5,3 +5,4 @@
 [submodule "SPI"]
 	path = SPI
 	url = git@github.com:Jcore9/SPI.git
+	branch = Development
