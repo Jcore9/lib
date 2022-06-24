@@ -1,6 +1,7 @@
 [submodule "AXI"]
 	path = AXI
 	url = git@github.com:Jcore9/AXI.git
+	branch = Development
 [submodule "SPI"]
 	path = SPI
 	url = git@github.com:Jcore9/SPI.git
